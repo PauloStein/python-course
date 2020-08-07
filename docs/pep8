@@ -1,0 +1,50 @@
+PEP 8 - Guia de Estilo Para Python(boas praticas)
+
+[1] Camel Case para nomes de classes
+
+class Calculadora
+    pass
+
+
+class CalculadoraCientifica
+   pass
+
+
+[2] nomes em minusculo separados por undeline para funcoes ou variaveis
+
+def carro():
+    pass
+
+def tipo_carro():
+   pass
+
+numero = 1
+
+
+numero_par = 2
+
+
+[3] 4 espacos para identar (se nao identar o python nao reconhece o bloco e nao executa)
+
+if 0 = 2:
+    print('yes')
+else:
+    print('no')
+
+
+[4] linhas em branco
+
+duas linhas em branco para separar funcoes e definicoes de classe;
+uma linha em branco para metodos dentro de classes.
+
+
+[5] imports
+
+imports devem ser feitos em linhas separadas.
+
+import_x
+import_y
+
+imports devem ser colocados no topo do arquivos, depois de quaisquer comentarios e antes de constantes e variaveis globais
+
+[6] termine sempre uma instrucao com uma nova linha
