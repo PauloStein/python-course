@@ -1,0 +1,11 @@
+Utilitarios Python para utilizar na programacao
+
+dir -> Apresenta todos os atributos/propriedades e funcoes/metodos disponiveis para determinado tipo de dado ou variavel.
+
+dir(tipo de dado/variavel)
+dir("OLA")
+
+help -> Apresenta a documentacao/como utilizar os atributos/propriedades e funcoes/metodos disponiveis para determinado tipo de dado ou variavel.
+
+help(tipodedado.propriedade)
+help("OLA".lower)
