@@ -15,3 +15,4 @@ else:
     media = (nota1 + nota2) /2
     print(f"media = {media}")
 
+
